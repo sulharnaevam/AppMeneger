@@ -176,7 +176,6 @@
             this.Controls.Add(this.btnDeleteAll);
             this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.dgvNotes);
-            this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.dgvNotes)).EndInit();
             this.ResumeLayout(false);
